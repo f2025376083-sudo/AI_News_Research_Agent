@@ -48,11 +48,13 @@ Each report includes:
 ## Important accuracy note
 The web search returns source snippets, not necessarily complete articles. The report is grounded in the retrieved snippets and includes their URLs, but important claims should be verified by opening the original sources. If no sources are found, the report notes that limitation instead of pretending live research succeeded.
 
-## Phase 5 submission screenshots
-Capture real screenshots after running the program:
+## Phase 5  screenshots
+Capture after running the program:
 1. Terminal showing the topic entered and sources found.
 2. Terminal showing the report preview and successful export paths.
 3. The generated Markdown report opened in VS Code.
 4. Optional: test a second topic and show empty-input validation.
+## Author
+Ayesha Pehlwan
 
-Submit these screenshots on the internship page. Do not use fabricated screenshots; run the program first.
+
