@@ -1,0 +1,20 @@
+Phase 5 — Console-Based AI News Research Agent
+
+Implemented:
+- Research topic input and validation
+- Web source search with title, URL, and snippet
+- AI-generated structured report: executive summary, key findings, detailed analysis, source references, conclusion
+- Markdown and TXT export into the reports folder
+- Error handling for missing API key, search errors, empty AI output, and other API/runtime errors
+- Repeated research workflow for multiple topics
+
+Testing to perform before submission:
+1. Run the program with a valid API key and research topic.
+2. Confirm that sources are returned and a report is generated.
+3. Confirm both .md and .txt files appear in reports/.
+4. Enter a second topic.
+5. Enter a blank topic and confirm validation.
+6. Enter q to exit cleanly.
+
+Submission evidence:
+Capture screenshots of the real terminal output and the generated report. Do not submit example or fabricated output as if it were a real run.
